@@ -1,2 +1,2 @@
-# backendCampeonato
-Se llevara a cabo el backend de nuestra aplicación.
+# Capeonato
+Se llevara a cabo la implementación de usuarios de nuestra aplicación.
